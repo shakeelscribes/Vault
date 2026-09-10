@@ -1,4 +1,4 @@
-# ⚡ VAULT — Autonomous Real-Time AI Financial Ecosystem
+# ⚡ Vault — Autonomous Real-Time AI Financial Ecosystem
 
 <div align="center">
 
